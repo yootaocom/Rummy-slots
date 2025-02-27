@@ -90,7 +90,7 @@
 如果您有任何问题或需要技术支持，请通过以下方式联系我们：
 
 - **电子邮件**： yootaocom@gmail.com
-- **Telegram**：https://t.me/hongshu8888
+- **Telegram**：[**联系我们**](https://t.me/hongshu8888)
 - **GitHub Issues**：在此页面提交您的问题和建议。
 
 ---
