@@ -1,0 +1,12 @@
+{
+  "name": "Yono Games",
+  "short_name": "Yono Games",
+  "description": "Yono Games",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5F259F",
+  "lang": "en",
+  "crossorigin": "use-credentials"
+}
